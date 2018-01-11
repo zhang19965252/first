@@ -6,4 +6,6 @@ echo "I Like PHP";
 
 echo "I Love PHP";
 
+echo "I am a dog";
+
 ?>
