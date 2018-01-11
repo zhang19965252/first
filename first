@@ -4,4 +4,6 @@ echo "Hello World";
 
 echo "I Like PHP";
 
+echo "I Love PHP";
+
 ?>
